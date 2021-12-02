@@ -1,5 +1,5 @@
 <h1 align="left">Hello there 👋</h1>
-<p align="left">My name is Dawid and I am an aspiring Front End Developer. My interest in programming started in high school and continues to this day. I am currently studying computer science and econometrics in Krakow. In private, I mainly focused on React with Javascript and Typescript.</p>
+<p align="left">My name is Dawid and I am an aspiring Front End Developer. My interest in programming started in high school and continues to this day. I am currently studying computer science and econometrics in Krakow. In private, I mainly focus on React with Javascript and Typescript.</p>
 
 <h1 align="left">A little more about me</h1>
 <h3>My Studies 👨‍🎓</h3>

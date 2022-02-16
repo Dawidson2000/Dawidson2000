@@ -31,4 +31,5 @@
 <a href="https://www.instagram.com/dawid_kulaga/?hl=pl" target="_blank" rel="noreferrer">📷 Instagram</a>
 <p></p>
 <a href="www.linkedin.com/in/dawid-kułaga-dev" target="_blank" rel="noreferrer">LinkedIn</a>
+<p></p>
 📧 Contact me: dawidson.kiano@gmail.com

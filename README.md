@@ -30,6 +30,6 @@
 <h1 align="left">Where to find me</h1>
 <a href="https://www.instagram.com/dawid_kulaga/?hl=pl" target="_blank" rel="noreferrer">📷 Instagram</a>
 <p></p>
-<a href="www.linkedin.com/in/dawid-kułaga-dev" target="_blank" rel="noreferrer">🤝 LinkedIn</a>
+<a href="https://www.linkedin.com/in/dawid-ku%C5%82aga-dev/" target="_blank" rel="noreferrer">🤝 LinkedIn</a>
 <p></p>
 📧 Contact me: dawidson.kiano@gmail.com
